@@ -6,7 +6,7 @@ const useCartTotal = (id: number) => {
     const item = cart.filter(item => item.id === id);
     // calculate total price for the selected item
     const totalPricePerProduct = item.reduce((total, item) => {
-        return total + (item.price * item.quantity);
+        return parseFloat((total + (item.price * item.quantity)).toFixed(2));
     }, 0);
     // calculate total price of all tht items in the cart
     const subTotal = cart.reduce((total, item) => total + (item.price * item.quantity), 0);

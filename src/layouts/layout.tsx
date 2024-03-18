@@ -19,7 +19,9 @@ const Layout: React.FC<LayoutProps> = ({ children, showBanner = true }) => {
         <section className="flex flex-col">
             <Header cart={[]} />
             { showBanner &&  <Banner onSubscribeClick={handleSubscribeClick}  /> }
-            { children }
+                <div className="px-10 mx-10">
+                    { children }
+                </div>
             <Footer />
         </section >
     )

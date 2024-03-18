@@ -20,7 +20,6 @@ const Cart = () => {
                                         <tr>
                                             <th className="text-left font-semibold">Product</th>
                                             <th className="text-left font-semibold">Price</th>
-                                            <th className="text-left font-semibold">Quantity</th>
                                             <th className="text-left font-semibold">Total</th>
                                         </tr>
                                     </thead>
