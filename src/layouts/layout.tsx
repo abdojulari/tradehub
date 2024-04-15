@@ -16,10 +16,10 @@ const Layout: React.FC<LayoutProps> = ({ children, showBanner = true }) => {
         sectionElement?.scrollIntoView({ behavior: 'smooth' });
     };
     return (
-        <section className="flex flex-col">
+        <section className="flex flex-col min-h-screen">
             <Header cart={[]} />
             { showBanner &&  <Banner onSubscribeClick={handleSubscribeClick}  /> }
-                <div className="px-10 mx-10">
+                <div className="flex-grow">
                     { children }
                 </div>
             <Footer />
