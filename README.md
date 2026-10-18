@@ -1,6 +1,6 @@
-# Foodzizzles Homes Web Application
+# Trade Hub 
 
-Foodzizzles Homes is an e-commerce web application for managing inventory, publishing digital cookbooks, organizing product categories, and publishing recipes.
+Trade Hub is an e-commerce web application for managing inventory, publishing digital cookbooks, organizing product categories, and publishing recipes.
 
 ## Getting Started
 
