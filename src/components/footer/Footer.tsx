@@ -17,7 +17,7 @@ const Footer = () => {
                     <div className="grid gap-10 row-gap-6 mb-8 sm:grid-cols-2 lg:grid-cols-4">
                         <div className="sm:col-span-2">
                             <a href="#" className="inline-flex items-center">
-                                <span className="text-xl font-bold tracking-wide text-gray-50">Foodzizzles</span>
+                                <span className="text-xl font-bold tracking-wide text-gray-50">TradeHub</span>
                             </a>
                             <div className="mt-6 lg:max-w-xl">
                                 <p className="text-sm text-gray-50">{ item.remarks }</p>
@@ -57,7 +57,7 @@ const Footer = () => {
                         </div>
                     </div>
                     <div className="flex flex-col-reverse justify-between pt-5 pb-2 border-t lg:flex-row">
-                        <p className="text-sm text-gray-400">© Copyright 2023 Foodzizzles. All rights reserved.</p>
+                        <p className="text-sm text-gray-400">© Copyright 2023 TradeHub. All rights reserved.</p>
                         <ul className="flex flex-col mb-3 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row">
                             <li>
                                 <a href="#"

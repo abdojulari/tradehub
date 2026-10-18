@@ -88,7 +88,7 @@ const Home = () => {
                                 <em>
                                     Whether you're a seasoned bibliophile or a casual reader, our best-selling books promise an unforgettable escape into realms of creativity, knowledge, and emotion. 
                                 </em>
-                                <span>Indulge your curiosity. Discover the magic within the pages. Welcome to Foodzizzles Book Emporium – where reading is not just a pastime; it's an extraordinary experience. Happy Reading!</span>
+                                <span>Indulge your curiosity. Discover the magic within the pages. Welcome to TradeHub Book Emporium – where reading is not just a pastime; it's an extraordinary experience. Happy Reading!</span>
                             </p>
                             
                             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-10">

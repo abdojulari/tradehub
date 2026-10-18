@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { useSpring, animated } from "react-spring"
 import NavigationItem from "../../shared/Navigation";
-import foodzizzles from "../../assets/foodzizzles.png";
+import tradeHub from "../../assets/tradehub.png";
 import { useSelector } from "react-redux";
 import { CartState } from "../../utils/cart";
 import Dropdown from "../../shared/DropDown";
@@ -74,7 +74,7 @@ const Header: React.FC<CartState> = () => {
         
                 <div className=" h-20 flex  justify-between py-4 px-10">
                     <Link to="/" className=" bg-white px-4 flex items-center space-x-3 rtl:space-x-reverse md:w-48">
-                        <img className="h-16 w-auto object-cover" src={foodzizzles} alt="foodzizzles logo" />
+                        <img className="h-16 w-auto object-cover" src={tradeHub} alt="TradeHub logo" />
                     </Link>
                     <div className="items-center justify-end px-10 hidden w-full lg:flex " id="navbar-sticky">
                         <ul className="flex flex-col ml-autojustify-items-end p-4 md:p-0 mt-4 font-medium border border-gray-100 rounded-lg  md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0  dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700"> 

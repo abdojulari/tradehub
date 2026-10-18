@@ -10,17 +10,17 @@ const About = () => {
                     <div>
                         <h1 className="text-4xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">It's 
                             <br className="block sm:hidden" /> 
-                            <span className="px-2 text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl animate-pulse bg-gradient-to-r from-pink-500 via-green-500 to-violet-500 bg-clip-text text-transparent">Foodzizzles</span>
+                            <span className="px-2 text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl animate-pulse bg-gradient-to-r from-pink-500 via-green-500 to-violet-500 bg-clip-text text-transparent">TradeHub</span>
                         </h1>
                         <div className="grid grid-cols-1 md:grid-cols-2">
                             <p className="max-w-lg mt-3 leading-relaxed md:mt-8">
-                            Foodzizzles is a culinary recipe content platform established in 2020, boasting a dedicated following of over 1.3 million on Facebook. Our daily posts provide step-by-step guides on preparing delectable dishes from around the world. Our overarching goal is to streamline the culinary experience through a unified solution that connects to e-books, kitchenware, videos, and coaching.
+                            TradeHub is a culinary recipe content platform established in 2020, boasting a dedicated following of over 1.3 million on Facebook. Our daily posts provide step-by-step guides on preparing delectable dishes from around the world. Our overarching goal is to streamline the culinary experience through a unified solution that connects to e-books, kitchenware, videos, and coaching.
                             </p>
                             <div className="relative">
                                 <div className="absolute top-10 right-0 w-2/3 h-96 border-4 border-orange-500"></div>
                                 <img
                                     src="https://cdn.rareblocks.xyz/collection/celebration/images/team/1/business-woman.png"
-                                    alt="Foodzizzles"
+                                    alt="TradeHub"
                                     className="w-full h-96 object-contain"
                                 />
                             </div>
@@ -28,7 +28,7 @@ const About = () => {
                        
                     </div>    
                     <div className="mt-2  text-gray-600 md:mt-8">
-                        <h2 className="my-2 leading-loose text-2xl"> New to Foodzizzles? Start Here!</h2>
+                        <h2 className="my-2 leading-loose text-2xl"> New to TradeHub? Start Here!</h2>
                         <p className="my-3 leading-normal">Whether it's your first time here or you are looking for some meal inspiration, here are some great places to start.</p>
                         <div className="flex  justify-center gap-8">
                             <div className="max-w-xs bg-white p-6 rounded-md shadow-md">

@@ -1,6 +1,6 @@
 [
     {
-        "remarks": "Foodzizzles is a culinary recipe content platform established in 2020, boasting a dedicated following of over 1.3 million on Facebook. Our daily posts provide step-by-step guides on preparing delectable dishes from around the world. Our overarching goal is to streamline the culinary experience through a unified solution that connects to e-books, kitchenware, videos, and coaching.",
+        "remarks": "TradeHub is a culinary recipe content platform established in 2020, boasting a dedicated following of over 1.3 million on Facebook. Our daily posts provide step-by-step guides on preparing delectable dishes from around the world. Our overarching goal is to streamline the culinary experience through a unified solution that connects to e-books, kitchenware, videos, and coaching.",
         "popularCourses": [
             {
                 "title": "Popular Courses",
@@ -40,7 +40,7 @@
         ],
         "socials": [
             {
-                "heading": "Foodzizzles is also available on",
+                "heading": "TradeHub is also available on",
                 "links": [ 
                     {
                         "icon": "https://cdn.iconscout.com/icon/free/png-256/free-twitter-9420782-7651212.png",
