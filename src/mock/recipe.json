@@ -1,73 +1,82 @@
 [
-    {
-      "id": 1,
-      "name": "Easy Chicken Shawarma",
-      "image": "https://www.thechunkychef.com/wp-content/uploads/2021/03/Chicken-Shawarma-recipe-card.jpg",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "date": "2015-03-25",
-      "duration": 6,
-      "category": "Middle Eastern Cuisine",
-      "cuisine": "Turkish"
-    },
-    {
-      "id": 2,
-      "name": "Efo Riro",
-      "image": "https://www.mydiasporakitchen.com/wp-content/uploads/2017/12/img_2573.jpg",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-      "date": "2015-03-23",
-      "duration": 3,
-      "category": "African Cuisine",
-      "cuisine": "West African"
-    },
-    {
-      "id": 3,
-      "name": "Ofada Rice and Sauce",
-      "image": "https://img-global.cpcdn.com/recipes/26f258e620b7534d/680x482cq70/ofada-rice-and-sauce-recipe-main-photo.jpg",
-      "description": "",
-      "date": "2015-03-23",
-      "duration": 3,
-      "category": "African Cuisine",
-      "cuisine": "West African"
-    },
-    {
-      "id": 4,
-      "name": "Best View in Newyork City",
-      "image": "https://images.pexels.com/photos/196667/pexels-photo-196667.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500",
-      "description": "",
-      "date": "2015-03-23",
-      "duration": 3,
-      "category": "African",
-      "cuisine": "Turkish"
-    },
-    {
-      "id": 5,
-      "name": "Best View in Newyork City",
-      "image": "https://images.pexels.com/photos/196667/pexels-photo-196667.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500",
-      "description": "",
-      "date": "2022-05-01",
-      "duration": 5,
-      "category": "African",
-      "cuisine": "Turkish"
-    },
-    {
-      "id": 6,
-      "name": "Best View in Newyork City",
-      "image": "https://images.pexels.com/photos/196667/pexels-photo-196667.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500",
-      "description": "",
-      "date": "2011-08-13",
-      "duration": 10,
-      "category": "African",
-      "cuisine": "Turkish"
-    },
-    {
-      "id": 7,
-      "name": "Best View in Newyork City",
-      "image": "https://images.pexels.com/photos/196667/pexels-photo-196667.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500",
-      "description": "",
-      "date": "2015-03-23",
-      "duration": 3,
-      "category": "African",
-      "cuisine": "Turkish"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Easy Chicken Shawarma",
+    "image": "https://www.thechunkychef.com/wp-content/uploads/2021/03/Chicken-Shawarma-recipe-card.jpg",
+    "description": "Spiced chicken roasted and sliced for wraps, with a garlic yogurt sauce.",
+    "date": "2024-03-25",
+    "duration": 6,
+    "category": "Middle Eastern Cuisine",
+    "cuisine": "Turkish"
+  },
+  {
+    "id": 2,
+    "name": "Efo Riro",
+    "image": "https://www.mydiasporakitchen.com/wp-content/uploads/2017/12/img_2573.jpg",
+    "description": "A peppery spinach stew simmered with peppers, onion, and stock.",
+    "date": "2024-03-23",
+    "duration": 3,
+    "category": "African Cuisine",
+    "cuisine": "West African"
+  },
+  {
+    "id": 3,
+    "name": "Ofada Rice and Sauce",
+    "image": "https://img-global.cpcdn.com/recipes/26f258e620b7534d/680x482cq70/ofada-rice-and-sauce-recipe-main-photo.jpg",
+    "description": "Local rice served with a slow-cooked pepper sauce and assorted meats.",
+    "date": "2024-03-23",
+    "duration": 3,
+    "category": "African Cuisine",
+    "cuisine": "West African"
+  },
+  {
+    "id": 4,
+    "name": "Jollof Rice",
+    "image": "https://www.wellplated.com/wp-content/uploads/2017/03/Baked-Fish-and-Chips.jpg",
+    "description": "Tomato rice cooked in one pot until the grains are separate and smoky.",
+    "date": "2024-04-02",
+    "duration": 5,
+    "category": "African Cuisine",
+    "cuisine": "West African"
+  },
+  {
+    "id": 5,
+    "name": "Margherita Flatbread",
+    "image": "https://www.americangarden.us/wp-content/uploads/2016/10/Blog-post_barbecue.jpg",
+    "description": "A thin flatbread topped with tomato, mozzarella, and basil.",
+    "date": "2024-05-11",
+    "duration": 4,
+    "category": "European Cuisine",
+    "cuisine": "Italian"
+  },
+  {
+    "id": 6,
+    "name": "Vegetable Stir Fry",
+    "image": "https://cookingandcussing.com/wp-content/uploads/2022/06/Perfect-Basmati-Rice-4.jpg",
+    "description": "Crisp vegetables tossed in a light soy and ginger sauce.",
+    "date": "2024-06-18",
+    "duration": 4,
+    "category": "Asian Cuisine",
+    "cuisine": "Chinese"
+  },
+  {
+    "id": 7,
+    "name": "Tacos al Pastor",
+    "image": "https://www.themediterraneandish.com/wp-content/uploads/2016/01/Chicken-Shawarma-Recipe-The-Mediterranean-Dish-2.jpg",
+    "description": "Chili-marinated pork tucked into warm tortillas with pineapple and onion.",
+    "date": "2024-07-09",
+    "duration": 7,
+    "category": "Latin American Cuisine",
+    "cuisine": "Mexican"
+  },
+  {
+    "id": 8,
+    "name": "Jerk Chicken",
+    "image": "https://www.bunsinmyoven.com/wp-content/uploads/2022/07/lemon-pepper-chicken-marinade.jpg",
+    "description": "Chicken rubbed with allspice, thyme, and scotch bonnet, then roasted.",
+    "date": "2024-08-14",
+    "duration": 8,
+    "category": "Caribbean Cuisine",
+    "cuisine": "Jamaican"
+  }
+]

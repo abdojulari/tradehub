@@ -1,5 +1,6 @@
 import { useQuery } from "@tanstack/react-query";
 import footer from "../../mock/footer.json";
+import { contactEmail } from "../../config/publicContact";
 const Footer = () => { 
     const { isLoading, error, data } = useQuery({
         queryKey: ['footer'],
@@ -51,7 +52,7 @@ const Footer = () => {
                             <p className="text-base font-bold tracking-wide text-gray-100 mt-5">{ item.contacts?.heading }</p>
                             <div className="flex">
                                 <p className="mr-1 text-gray-50">{item.contacts.label}</p>
-                                <a href="#" title="send email">{item.contacts.email}</a>
+                                <a href={`mailto:${contactEmail}`} title="send email">{contactEmail}</a>
                             </div> 
                         </div>
                     </div>

@@ -6,6 +6,9 @@ import SlideShow from "../utils/Slider";
 import CourseCard from "../shared/CourseCard";
 import { Fade } from "react-awesome-reveal";
 import BookCard from "../shared/BookCard";
+import books from "../mock/books.json";
+import courses from "../mock/courses.json";
+import quotes from "../mock/quotes.json";
 
 
 const Home = () => {
@@ -22,77 +25,6 @@ const Home = () => {
         'https://www.wellplated.com/wp-content/uploads/2017/03/Baked-Fish-and-Chips.jpg',
     ];
    
-    const courses = [
-        {
-          category: 'Baking',
-          image: 'https://t3.ftcdn.net/jpg/01/79/02/28/360_F_179022802_kGGMQdmKkMD2fOQK59awVoMJhtLVmyQM.jpg', // Replace with actual baking image
-          description: 'Explore the art of baking with our hands-on courses. From pastries to bread, become a master baker.',
-          enrollmentLink: '/enroll/baking',
-        },
-        {
-          category: 'Cooking',
-          image: 'https://images.squarespace-cdn.com/content/v1/56a1acf7d82d5ee027b340cb/1629951432990-U1RD0OWGHNZ9O4N7HG7R/RI8CD3~1.JPG?format=2500w',
-          description: 'Immerse yourself in the culinary world. Learn to cook delicious meals from various cuisines with our expert chefs.',
-          enrollmentLink: '/enroll/cooking',
-        },
-        {
-          category: 'Healthy Drinks',
-          image: 'https://hips.hearstapps.com/hmg-prod/images/kombucha-royalty-free-image-1656527727.jpg?crop=0.772xw:0.515xh;0.228xw,0.318xh&resize=980:*',
-          description: 'Quench your thirst with our Healthy Drinks course. Discover refreshing and nutritious beverages for a healthier lifestyle.',
-          enrollmentLink: '/enroll/healthy-drinks',
-        },
-        {
-          category: 'Frying',
-          image: 'https://images.squarespace-cdn.com/content/v1/63c98753e882f32c6473b4ff/a6f680e6-6d5d-436a-8f7b-f2e45fd5dbc0/APC-mjer-8.jpg', 
-          description: 'Master the art of frying and create crispy delights. Join our Frying course to elevate your cooking skills.',
-          enrollmentLink: '/enroll/frying',
-        },
-    ];
-
-    const quotes = [
-        {
-            "name": "Nathan Myhrvold",
-            "quote": " Cooking is an art, but all art requires knowing something about the techniques and materials."
-        },
-        {
-            "name": "Rachael Ray",
-            "quote": "Good food and a warm kitchen are what make a house a home."
-        }
-    ]
-
-    const books =[
-        {  
-            "id": 1,
-            "title": "16 Classic Nigerian Recipes For Beginners",
-            "image": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/9xqJ5jzze.png?output-format=jpg&output-format=auto&output-quality=90&crop=150&downsize=800:*",
-            "price": 19.2
-        },
-        {
-            "id": 2,
-            "title": "16 Classic Nigerian Recipes For Beginners",
-            "image": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/9xqJ5jzze.png?output-format=jpg&output-format=auto&output-quality=90&crop=150&downsize=800:*",
-            "price": 19.2
-        },
-        {
-            "id": 3,
-            "title": "Modern Asian Kitchen",
-            "image": "https://images.squarespace-cdn.com/content/v1/614a009b2cb9af680ff625f7/17f197c6-ad9d-42e2-b372-a826c30b2923/A1TFnMo7tPL.jpg",
-            "price": 8.12
-        },
-        {
-            "id": 4,
-            "title": "The Smoothie Recipe secret for weight loss",
-            "image": "https://i.ebayimg.com/images/g/bwgAAOSwWQBiDPDw/s-l1200.jpg",
-            "price": 7.80
-        },
-        {
-            "id": 5,
-            "title": "Top 10 Best Cupcake",
-            "image": "https://www.browneyedbaker.com/wp-content/uploads/2023/06/10-best-cupcakes.jpg",
-            "price": 10.79
-        },
-    ]
-
     return(
         <main className="pt-20">
             <article className="px-20 flex-grow md:flex">

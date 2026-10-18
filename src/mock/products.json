@@ -1,0 +1,29 @@
+[
+  {
+    "id": 101,
+    "title": "12-inch Cast Iron Skillet",
+    "image": "https://www.americangarden.us/wp-content/uploads/2016/10/Blog-post_barbecue.jpg",
+    "price": 34,
+    "sku": "FZ-SKILLET-12",
+    "category": "Cookware",
+    "inStock": true
+  },
+  {
+    "id": 102,
+    "title": "Wooden Spoon Set",
+    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/7/12/3/HT_Measure-Wet-Beauty-2_s4x3.jpg.rend.hgtvcom.476.357.suffix/1371600026956.jpeg",
+    "price": 12.5,
+    "sku": "FZ-SPOON-3",
+    "category": "Utensils",
+    "inStock": true
+  },
+  {
+    "id": 103,
+    "title": "Glass Storage Jars",
+    "image": "https://cdn-p300.americantowns.com/img/article/me-milkshake-1.jpg",
+    "price": 18,
+    "sku": "FZ-JAR-4",
+    "category": "Storage",
+    "inStock": false
+  }
+]

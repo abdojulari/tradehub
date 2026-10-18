@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/9xqJ5jzze.png?output-format=jpg&output-quality=90&crop=150&downsize=800:*",
+    "title": "16 Classic Nigerian Recipes For Beginners",
+    "price": 19.2,
+    "quantity": 1,
+    "selected": true
+  },
+  {
+    "id": 101,
+    "image": "https://www.americangarden.us/wp-content/uploads/2016/10/Blog-post_barbecue.jpg",
+    "title": "12-inch Cast Iron Skillet",
+    "price": 34,
+    "quantity": 2,
+    "selected": true
+  },
+  {
+    "id": 102,
+    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/7/12/3/HT_Measure-Wet-Beauty-2_s4x3.jpg.rend.hgtvcom.476.357.suffix/1371600026956.jpeg",
+    "title": "Wooden Spoon Set",
+    "price": 12.5,
+    "quantity": 1,
+    "selected": false
+  }
+]

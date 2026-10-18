@@ -3,6 +3,7 @@ import address from '../assets/address.svg';
 import phone from '../assets/phone.svg';
 import { useForm, SubmitHandler } from 'react-hook-form';
 import { useState } from 'react';
+import { contactAddress, contactPhone } from '../config/publicContact';
 
 interface IForm {
     firstname: string
@@ -16,20 +17,13 @@ const Contact = () => {
     const { 
         register, 
         handleSubmit, 
-        watch, 
         formState: { errors }, 
         reset
     } = useForm<IForm>();
-    // side side isn't ready, I would only need to post to API endpoint and let backend handles the email submission
-    const onSubmit: SubmitHandler<IForm> = (data) => {
-        console.log(data);
+    const onSubmit: SubmitHandler<IForm> = () => {
         setIsMessageSent(true);
-        // Reset the form after submission
         reset();
     }
-    
-
-    console.log(watch("email"))
     return(
         <main className="mt-[12rem] p-20">
             <div className="max-w-screen-lg mx-auto p-5">
@@ -47,11 +41,11 @@ const Contact = () => {
 
                         <div className="flex items-center mt-5">
                             <img className="w-6 mr-2" src={address} alt='address' />
-                            <span className="text-sm text-gray-200">105 Andover Drive, London, Ontario, Canada</span>
+                            <span className="text-sm text-gray-200">{contactAddress}</span>
                         </div>
                         <div className="flex items-center mt-5">
                             <img className="w-6 mr-2" src={phone} alt='phone' />
-                            <span className="text-sm text-gray-200">+16475637235</span>
+                            <span className="text-sm text-gray-200">{contactPhone}</span>
                         </div>
                         <div className="flex items-center mt-5">
                             <img className="w-6 mr-2" src={time} alt='time' />
@@ -67,7 +61,7 @@ const Contact = () => {
                                 </label>
                                 <input
                                     className="appearance-none block w-full bg-gray-200 text-gray-700 border border-red-500 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white"
-                                    id="grid-first-name" type="text" defaultValue="Jane"  {...register("firstname")} />
+                                    id="grid-first-name" type="text" placeholder="First name" {...register("firstname")} />
                                 {errors.firstname && <p className="text-red-500 text-xs italic">Please fill out this field.</p>}
                             </div>
                             <div className="w-full md:w-1/2 px-3">
@@ -76,7 +70,7 @@ const Contact = () => {
                                 </label>
                                 <input
                                     className="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"
-                                    id="grid-last-name" type="text" defaultValue="Doe" {...register("lastname")} />
+                                    id="grid-last-name" type="text" placeholder="Last name" {...register("lastname")} />
                             </div>
                         </div>
                         <div className="flex flex-wrap -mx-3 mb-6">

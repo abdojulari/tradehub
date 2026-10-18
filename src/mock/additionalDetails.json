@@ -1,63 +1,162 @@
 [
-    {
-      "id": 1,
-      "recipeId": 1,
-      "title": "Stepwise for making Shawarma",
-      "image": "",
-      "data": [ 
-        {
-          "icon" : "https://www.licious.in/blog/wp-content/uploads/2022/06/shutterstock_1339636625-1.jpg",
-          "description" : "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
-        }, 
-        {
-          "icon":  "https://ministryofcurry.com/wp-content/uploads/2021/05/chicken-shawarma-6.jpg",
-          "description":"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
-        },
-        {
-          "icon": "https://www.themediterraneandish.com/wp-content/uploads/2016/01/Chicken-Shawarma-Recipe-The-Mediterranean-Dish-2.jpg",
-          "description":"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
-        }  
-      ]
-    },
-    {
-      "id": 2,
-      "recipeId": 2,
-      "title": "Stepwise for making Efo Riro",
-      "image": "",
-      "data": [ 
-        {
-          "icon" : "https://www.licious.in/blog/wp-content/uploads/2022/06/shutterstock_1339636625-1.jpg",
-          "description" : "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
-        }, 
-        {
-          "icon":  "https://ministryofcurry.com/wp-content/uploads/2021/05/chicken-shawarma-6.jpg",
-          "description":"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
-        },
-        {
-          "icon": "https://www.themediterraneandish.com/wp-content/uploads/2016/01/Chicken-Shawarma-Recipe-The-Mediterranean-Dish-2.jpg",
-          "description":"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
-        }  
-      ]
-    },
-    {
-      "id": 3,
-      "recipeId": 3,
-      "title": "Stepwise for making Ofada Rice and Sauce",
-      "image": "",
-      "data": [ 
-        {
-          "icon" : "https://www.licious.in/blog/wp-content/uploads/2022/06/shutterstock_1339636625-1.jpg",
-          "description" : "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
-        }, 
-        {
-          "icon":  "https://ministryofcurry.com/wp-content/uploads/2021/05/chicken-shawarma-6.jpg",
-          "description":"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
-        },
-        {
-          "icon": "https://www.themediterraneandish.com/wp-content/uploads/2016/01/Chicken-Shawarma-Recipe-The-Mediterranean-Dish-2.jpg",
-          "description":"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
-        }  
-      ]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "recipeId": 1,
+    "title": "Steps for Easy Chicken Shawarma",
+    "image": "",
+    "data": [
+      {
+        "icon": "https://www.licious.in/blog/wp-content/uploads/2022/06/shutterstock_1339636625-1.jpg",
+        "description": "Toss chicken with spices, lemon, and oil. Rest it in the fridge for at least 30 minutes."
+      },
+      {
+        "icon": "https://ministryofcurry.com/wp-content/uploads/2021/05/chicken-shawarma-6.jpg",
+        "description": "Roast until the edges brown, then slice the chicken thinly."
+      },
+      {
+        "icon": "https://www.themediterraneandish.com/wp-content/uploads/2016/01/Chicken-Shawarma-Recipe-The-Mediterranean-Dish-2.jpg",
+        "description": "Serve in warm flatbread with yogurt sauce, tomato, and herbs."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "recipeId": 2,
+    "title": "Steps for Efo Riro",
+    "image": "",
+    "data": [
+      {
+        "icon": "https://www.licious.in/blog/wp-content/uploads/2022/06/shutterstock_1339636625-1.jpg",
+        "description": "Blend peppers, onion, and tomato into a smooth base."
+      },
+      {
+        "icon": "https://ministryofcurry.com/wp-content/uploads/2021/05/chicken-shawarma-6.jpg",
+        "description": "Fry the base in oil until the raw smell cooks off."
+      },
+      {
+        "icon": "https://www.mydiasporakitchen.com/wp-content/uploads/2017/12/img_2573.jpg",
+        "description": "Stir in chopped spinach and simmer until the leaves wilt."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "recipeId": 3,
+    "title": "Steps for Ofada Rice and Sauce",
+    "image": "",
+    "data": [
+      {
+        "icon": "https://img-global.cpcdn.com/recipes/26f258e620b7534d/680x482cq70/ofada-rice-and-sauce-recipe-main-photo.jpg",
+        "description": "Rinse the rice until the water runs clearer, then boil it until tender."
+      },
+      {
+        "icon": "https://cookingandcussing.com/wp-content/uploads/2022/06/Perfect-Basmati-Rice-4.jpg",
+        "description": "Cook blended peppers with locust beans until the sauce darkens."
+      },
+      {
+        "icon": "https://www.americangarden.us/wp-content/uploads/2016/10/Blog-post_barbecue.jpg",
+        "description": "Add the meats and simmer, then serve the sauce over the rice."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "recipeId": 4,
+    "title": "Steps for Jollof Rice",
+    "image": "",
+    "data": [
+      {
+        "icon": "https://cookingandcussing.com/wp-content/uploads/2022/06/Perfect-Basmati-Rice-4.jpg",
+        "description": "Blend tomato, pepper, and onion, then fry the puree until it thickens."
+      },
+      {
+        "icon": "https://www.wellplated.com/wp-content/uploads/2017/03/Baked-Fish-and-Chips.jpg",
+        "description": "Stir in rinsed rice and stock. Cover and cook on low heat."
+      },
+      {
+        "icon": "https://www.americangarden.us/wp-content/uploads/2016/10/Blog-post_barbecue.jpg",
+        "description": "Rest the pot off the heat so the grains finish steaming."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "recipeId": 5,
+    "title": "Steps for Margherita Flatbread",
+    "image": "",
+    "data": [
+      {
+        "icon": "https://www.americangarden.us/wp-content/uploads/2016/10/Blog-post_barbecue.jpg",
+        "description": "Stretch the dough into a thin round and spread on crushed tomato."
+      },
+      {
+        "icon": "https://www.browneyedbaker.com/wp-content/uploads/2023/06/10-best-cupcakes.jpg",
+        "description": "Add torn mozzarella and bake until the crust blisters."
+      },
+      {
+        "icon": "https://cdn-p300.americantowns.com/img/article/me-milkshake-1.jpg",
+        "description": "Finish with basil and a drizzle of olive oil."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "recipeId": 6,
+    "title": "Steps for Vegetable Stir Fry",
+    "image": "",
+    "data": [
+      {
+        "icon": "https://cookingandcussing.com/wp-content/uploads/2022/06/Perfect-Basmati-Rice-4.jpg",
+        "description": "Cut vegetables into even pieces so they cook at the same pace."
+      },
+      {
+        "icon": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/7/12/3/HT_Measure-Wet-Beauty-2_s4x3.jpg.rend.hgtvcom.476.357.suffix/1371600026956.jpeg",
+        "description": "Stir-fry on high heat, starting with the firmest vegetables."
+      },
+      {
+        "icon": "https://www.wellplated.com/wp-content/uploads/2017/03/Baked-Fish-and-Chips.jpg",
+        "description": "Toss with soy, ginger, and a splash of water, then serve at once."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "recipeId": 7,
+    "title": "Steps for Tacos al Pastor",
+    "image": "",
+    "data": [
+      {
+        "icon": "https://www.themediterraneandish.com/wp-content/uploads/2016/01/Chicken-Shawarma-Recipe-The-Mediterranean-Dish-2.jpg",
+        "description": "Marinate sliced pork with chili, pineapple juice, and spices."
+      },
+      {
+        "icon": "https://www.americangarden.us/wp-content/uploads/2016/10/Blog-post_barbecue.jpg",
+        "description": "Sear the pork in batches until the edges caramelize."
+      },
+      {
+        "icon": "https://cdn-p300.americantowns.com/img/article/me-milkshake-1.jpg",
+        "description": "Chop and pile into tortillas with onion, cilantro, and pineapple."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "recipeId": 8,
+    "title": "Steps for Jerk Chicken",
+    "image": "",
+    "data": [
+      {
+        "icon": "https://www.bunsinmyoven.com/wp-content/uploads/2022/07/lemon-pepper-chicken-marinade.jpg",
+        "description": "Blend allspice, thyme, garlic, and pepper into a thick marinade."
+      },
+      {
+        "icon": "https://ministryofcurry.com/wp-content/uploads/2021/05/chicken-shawarma-6.jpg",
+        "description": "Coat the chicken and refrigerate it overnight."
+      },
+      {
+        "icon": "https://www.thechunkychef.com/wp-content/uploads/2021/03/Chicken-Shawarma-recipe-card.jpg",
+        "description": "Roast until cooked through and the skin is deeply browned."
+      }
+    ]
+  }
+]

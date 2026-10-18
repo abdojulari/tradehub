@@ -1,0 +1,29 @@
+[
+  {
+    "id": 201,
+    "title": "16 Classic Nigerian Recipes For Beginners",
+    "image": "https://img.buzzfeed.com/store-an-image-prod-us-east-1/9xqJ5jzze.png?output-format=jpg&output-quality=90&crop=150&downsize=800:*",
+    "price": 19.2,
+    "format": "ebook",
+    "pages": 48,
+    "published": true
+  },
+  {
+    "id": 202,
+    "title": "Weeknight West African Meals",
+    "image": "https://www.mydiasporakitchen.com/wp-content/uploads/2017/12/img_2573.jpg",
+    "price": 16.5,
+    "format": "ebook",
+    "pages": 64,
+    "published": true
+  },
+  {
+    "id": 203,
+    "title": "Sauce Notes: Pepper and Stock",
+    "image": "https://img-global.cpcdn.com/recipes/26f258e620b7534d/680x482cq70/ofada-rice-and-sauce-recipe-main-photo.jpg",
+    "price": 9,
+    "format": "pdf",
+    "pages": 24,
+    "published": false
+  }
+]
