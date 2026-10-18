@@ -41,19 +41,21 @@ These items are not started.
 
 ### Storefront
 
-- [ ] Finish the cart so a shopper can change quantity, remove a line, and leave a line unselected without deleting it
+- [ ] Finish the cart so a shopper can change quantity, remove an item, and leave an item unselected without deleting it
 - [ ] Connect a payment provider such as Stripe
+- [ ] Add product comparison capability 
 
 ### Catalog
 
 - [ ] Create and publish cookbooks and e-books
-- [ ] Manage products, categories, and recipes
+- [ ] Manage products, categories and recipes
 - [ ] Extract text from scanned cookbook pages
 
 ### Admin
 
 - [ ] Build a dashboard where admins can manage products, recipes, users, cookbooks, and e-books
 - [ ] Add a dashboard overview of catalog and order activity
+- [ ] Payment and subscription manager
 
 ### Platform
 
@@ -61,6 +63,11 @@ These items are not started.
 - [ ] Add sign-in and role-based access
 - [ ] Add account reconciliation and reporting
 - [ ] Add a support chatbot
+
+### System
+- [ ] Product recommender 
+- [ ] Customer journey and experience
+- [ ] Product mapper and product intelligence to improve product experience by collecting and analyzing user behavioural data, customer feedback (product review) and performance metrics
 
 ## Mock data
 
@@ -82,3 +89,5 @@ Sample records live in `src/mock/` so the current screens can be exercised befor
 ## License
 
 This project is licensed under the MIT License.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
